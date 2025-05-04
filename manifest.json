@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Tuna Macro",
+    "version": "1.0",
+    "description": "Bu uygulama pokemon'da farm yapmaya yarıyor.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
